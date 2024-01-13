@@ -20,6 +20,11 @@ li{
     list-style: none;
 }
 
+html,
+body{
+    background-color: black;
+}
+
 .container aside .side-bar-contents .logo .icon,
 .center header nav ul li:first-child{
     display: none;
